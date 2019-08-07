@@ -1,0 +1,15 @@
+{
+	"file": "https://github.com/remco-stam/barleyDEG/blob/master/bigtabledown.txt",
+	"name": "bigtabledown",
+	"header": 0,
+	"separator": " ",
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Row Number" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 56 }
+	],
+    "author": "Phyto",
+    "description": "DEGs",
+    "source": "XYZ"
+}
